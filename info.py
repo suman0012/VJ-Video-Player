@@ -27,7 +27,7 @@ MONGODB_URI = environ.get("MONGODB_URI", "mongodb+srv://suman001:<db_password>@c
 STREAM_URL = environ.get("STREAM_URL", "https://vj-video-player-1-27na.onrender.com")
 
 # This Link Used As Permanent Link That If Your Deploy App Deleted Then You Change Stream Url, So This Link Will Redirect To Stream Url.
-LINK_URL = environ.get("LINK_URL", "https://download.taazainsurance.in/")
+LINK_URL = environ.get("LINK_URL", "https://taaazatecgtt.blogspot.com/p/vj-disk-body-font-family-arial-sans.html")
 
 # Others, Not Usefull
 PORT = environ.get("PORT", "8080")
